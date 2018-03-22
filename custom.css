@@ -1,0 +1,352 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin: 0px;
+    height: 0px;
+    color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    color: bisque;
+    height: 120px;
+    border: none;
+}
+
+.navbar-default {
+    box-shadow: 1px 2px 15px #FFFFFF;
+    background-position: center;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*background-size: cover;*/
+    /*-o-background-size: cover;*/
+    background-image: url("img/motor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    color: bisque;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-default .navbar-nav > li > a {
+    padding-top: 50px;
+    padding-right: 50px;
+    color: bisque;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    border-bottom: 2px bisque solid;
+    font-size: 15px;
+    color: bisque;
+}
+
+.navbar-default .navbar-nav .dropdown > ul {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.dropdown .drop > li > a {
+    color: bisque;
+    border: none;
+}
+
+.dropdown .drop > li > a:hover {
+    border-bottom: 2px bisque solid;
+    font-size: 12px;
+    color: bisque;
+    background-color: transparent;
+}
+
+.defaultimage {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/motor1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.defaultimage2 {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/motor2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.productsimage {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/dream.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.conatctimage {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Footerimage {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/motor1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.storeimage {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url("img/liv2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.defaultsize {
+    max-height: 1180px;
+    max-width: 1680px;
+}
+
+.dark {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.dark2 {
+    background-color: black;
+}
+
+.brand {
+    margin-top: 455px;
+}
+
+.brand2 {
+    margin-top: 140px;
+}
+
+.brand3 {
+    margin-top: 250px;
+}
+
+.brand4 {
+    margin-top: 130px;
+}
+
+.brand5 {
+    align-content: center;
+    padding-top: 10px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding-bottom: 20px;
+}
+
+.cbrand {
+    margin-bottom: 220px;
+}
+
+.cbrand2 {
+    margin-bottom: 150px;
+}
+
+.adminlogo {
+    margin-left: 70px;
+}
+
+.homesize {
+    max-height: 730px;
+}
+
+.btechbutton {
+    color: bisque !important;
+}
+
+.btechbutton:hover {
+    box-shadow: 1px 2px 5px #FFFFFF;
+}
+
+.btnmine {
+    color: bisque;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.btnmine:hover {
+    box-shadow: 1px 2px 5px greenyellow;
+    color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.btnremove {
+    color: bisque;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.btnremove:hover {
+    box-shadow: 1px 2px 5px red;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+#mylocation {
+    color: bisque;
+}
+
+#mylocation:hover {
+    color: greenyellow;
+}
+
+.defaultborder {
+    border-bottom: 2px bisque solid;
+}
+
+.defaultlink {
+    color: bisque;
+}
+
+.defaultlink:hover {
+    color: bisque;
+    border-bottom: 2px bisque solid;
+}
+
+.motorborder {
+    border-bottom: 2px greenyellow solid;
+}
+
+.electroborder {
+    border-bottom: 2px mediumpurple solid;
+}
+
+.sportsborder {
+    border-bottom: 2px orange solid;
+}
+
+.fashionborder {
+    border-bottom: 2px deeppink solid;
+}
+
+.motorbtn {
+    color: bisque;
+}
+
+.electrobtn {
+    color: bisque;
+}
+
+.sportsbtn {
+    color: bisque;
+}
+
+.fashionbtn {
+    color: bisque;
+}
+
+.motorbtn:hover {
+    color: greenyellow;
+    box-shadow: 1px 2px 5px greenyellow;
+}
+
+.electrobtn:hover {
+    color: mediumpurple;
+    box-shadow: 1px 2px 5px mediumpurple;
+}
+
+.sportsbtn:hover {
+    color: orange;
+    box-shadow: 1px 2px 5px orange;
+}
+
+.fashionbtn:hover {
+    color: deeppink;
+    box-shadow: 1px 2px 5px deeppink;
+}
+
+.lwrite {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: bisque !important;
+    border: none !important;
+}
+.mydesign{
+    box-shadow: 1px 2px 10px #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: bisque !important;
+    border: none !important;
+}
+.lwrite2 {
+    box-shadow: 1px 2px 5px #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: bisque !important;
+    border: none !important;
+}
+
+.lwrite2:hover {
+    box-shadow: 1px 2px 5px deeppink;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: bisque !important;
+    border: none !important;
+}
+
+.btncart {
+    box-shadow: 1px 2px 5px #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: bisque !important;
+    border: none !important;
+    margin-bottom: 20px;
+}
+
+.btncart:hover {
+    box-shadow: 1px 2px 5px deeppink;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: deeppink !important;
+    border: none !important;
+}
+
+.img4 {
+    max-width: 100px;
+}
+
+.loadedimage {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 10px;
+    width: 200px;
+    height: 160px;
+}
+
+.loadedimage2 {
+    margin-top: 20px;
+    max-width: 150px;
+    max-height: 150px;
+
+}
